@@ -1,1 +1,6 @@
-{"Life":10,"Name":"Player","posX":0,"posY":2}
+{
+  "Life": -135,
+  "Name": "Player",
+  "posX": 15,
+  "posY": 12
+}

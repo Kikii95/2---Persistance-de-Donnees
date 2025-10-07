@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kabboud\\OneDrive\\Documents\\GitHub\\2---Persistance-de-Donnees\\Exo J1\\",
+  "WorkspaceRootPath": "C:\\Users\\killi\\source\\Ann\u00E9e 3\\2---Persistance-de-Donnees\\Exo J1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB67CDD5-3C55-4850-9AFD-823ABC11E61E}|Exo J1\\Exo J1.csproj|c:\\users\\kabboud\\onedrive\\documents\\github\\2---persistance-de-donnees\\exo j1\\exo j1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB67CDD5-3C55-4850-9AFD-823ABC11E61E}|Exo J1\\Exo J1.csproj|c:\\users\\killi\\source\\ann\u00E9e 3\\2---persistance-de-donnees\\exo j1\\exo j1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB67CDD5-3C55-4850-9AFD-823ABC11E61E}|Exo J1\\Exo J1.csproj|solutionrelative:exo j1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,20 +14,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kabboud\\OneDrive\\Documents\\GitHub\\2---Persistance-de-Donnees\\Exo J1\\Exo J1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\killi\\source\\Ann\u00E9e 3\\2---Persistance-de-Donnees\\Exo J1\\Exo J1\\Program.cs",
               "RelativeDocumentMoniker": "Exo J1\\Program.cs",
-              "ToolTip": "C:\\Users\\kabboud\\OneDrive\\Documents\\GitHub\\2---Persistance-de-Donnees\\Exo J1\\Exo J1\\Program.cs",
+              "ToolTip": "C:\\Users\\killi\\source\\Ann\u00E9e 3\\2---Persistance-de-Donnees\\Exo J1\\Exo J1\\Program.cs",
               "RelativeToolTip": "Exo J1\\Program.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAgwFAAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-06T12:45:59.828Z",
+              "WhenOpened": "2025-10-06T12:43:34.949Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d3750d8a-574b-4fb3-b7e2-aa8af40e8231}"
             }
           ]
         }

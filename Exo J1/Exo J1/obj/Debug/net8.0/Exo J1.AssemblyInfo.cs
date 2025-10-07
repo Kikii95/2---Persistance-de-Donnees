@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exo J1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fd84b74670b567af37ec3bed2479661d9c78f1d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+babe5814dae2c92d809ca7f0b80e897bad0eedd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exo J1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exo J1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

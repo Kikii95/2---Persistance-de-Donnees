@@ -1,15 +1,60 @@
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.exe
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.deps.json
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.runtimeconfig.json
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.dll
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.pdb
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.AssemblyInfoInputs.cache
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.AssemblyInfo.cs
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.csproj.CoreCompileInputs.cache
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.sourcelink.json
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.dll
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\refint\Exo J1.dll
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.pdb
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.genruntimeconfig.cache
-C:\Users\kabboud\OneDrive\Documents\GitHub\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\ref\Exo J1.dll
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.exe
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.deps.json
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.runtimeconfig.json
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.dll
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.pdb
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfoInputs.cache
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfo.cs
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.csproj.CoreCompileInputs.cache
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.sourcelink.json
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.dll
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/refint/Exo J1.dll
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.pdb
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.genruntimeconfig.cache
+C:/Users/kabboud/OneDrive/Documents/GitHub/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/ref/Exo J1.dll
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.exe
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.deps.json
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.runtimeconfig.json
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.dll
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.pdb
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfoInputs.cache
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfo.cs
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.csproj.CoreCompileInputs.cache
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.sourcelink.json
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.dll
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/refint/Exo J1.dll
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.pdb
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.genruntimeconfig.cache
+C:/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/ref/Exo J1.dll
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.deps.json
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.runtimeconfig.json
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.dll
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/bin/Debug/net8.0/Exo J1.pdb
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfoInputs.cache
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.AssemblyInfo.cs
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.csproj.CoreCompileInputs.cache
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.sourcelink.json
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.dll
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/refint/Exo J1.dll
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.pdb
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/Exo J1.genruntimeconfig.cache
+/mnt/c/Users/killi/source/Année 3/2---Persistance-de-Donnees/Exo J1/Exo J1/obj/Debug/net8.0/ref/Exo J1.dll
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.exe
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.deps.json
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.runtimeconfig.json
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.dll
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\bin\Debug\net8.0\Exo J1.pdb
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.AssemblyInfoInputs.cache
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.AssemblyInfo.cs
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.csproj.CoreCompileInputs.cache
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.sourcelink.json
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.dll
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\refint\Exo J1.dll
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.pdb
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\Exo J1.genruntimeconfig.cache
+C:\Users\killi\source\Année 3\2---Persistance-de-Donnees\Exo J1\Exo J1\obj\Debug\net8.0\ref\Exo J1.dll
